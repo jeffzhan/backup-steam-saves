@@ -1,5 +1,5 @@
 # backup-steam-saves
-A Windows batch script to update a game's save files automatically upon launching the game.
+A Windows batch script to backup a game's save files automatically upon launching the game.
 
 Forked from Tacumoto's [Simple Save Backup Script](https://www.nexusmods.com/monsterhunterwilds/mods/379?tab=description) for Monster Hunter Wilds. Cleaned up some lines and made a version for Stardew Valley which has a completely different save location.
 
